@@ -50,7 +50,7 @@ function TopContainer() {
   
   <ul>
     <li>
-      <a href="#">Home</a>
+      <a href="#" className="top">Home</a>
       <a href="#">Services</a>
       <a href="#">How it Works?</a>
       <a href="#">Contact</a>
